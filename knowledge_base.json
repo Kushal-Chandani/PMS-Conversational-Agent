@@ -1,0 +1,54 @@
+[
+    {
+        "question": "What is the check-in time?",
+        "answer": "Check-in is from 3 PM onwards. You will receive detailed check-in instructions, including the exact address and access codes, on the morning of your arrival."
+    },
+    {
+        "question": "What is the check-out time?",
+        "answer": "Check-out is at 11 AM. Please ensure you leave the property in a tidy condition."
+    },
+    {
+        "question": "Is early check-in or late check-out available?",
+        "answer": "We may be able to accommodate early check-in or late check-out requests depending on our booking schedule. Please contact us a day before your arrival to inquire. Additional fees may apply."
+    },
+    {
+        "question": "What is the cancellation policy?",
+        "answer": "Our cancellation policy is as follows: Full refund for cancellations made within 48 hours of booking, if the check-in date is at least 14 days away. 50% refund for cancellations made at least 7 days before check-in. No refunds for cancellations made within 7 days of check-in."
+    },
+    {
+        "question": "Is there free Wi-Fi?",
+        "answer": "Yes, all our properties are equipped with complimentary high-speed Wi-Fi. The network name and password will be provided in your check-in instructions."
+    },
+    {
+        "question": "What is the pet policy?",
+        "answer": "We have a number of pet-friendly properties. Please check the specific property's page for details on pet policies and any associated fees. Service animals are always welcome."
+    },
+    {
+        "question": "Is parking available?",
+        "answer": "Most of our properties offer free parking. Some properties in dense urban areas may have limited or paid parking. Please refer to the property's listing for specific parking information."
+    },
+    {
+        "question": "Are linens and towels provided?",
+        "answer": "Yes, we provide fresh linens, bath towels, and hand towels for all guests."
+    },
+    {
+        "question": "What amenities are included?",
+        "answer": "Our properties come with a range of amenities, including a fully equipped kitchen, toiletries, and a hairdryer. Please check the individual property listing for a full list of amenities."
+    },
+    {
+        "question": "Is smoking allowed?",
+        "answer": "All our properties are non-smoking. A fee will be charged if there is evidence of smoking inside the property."
+    },
+    {
+        "question": "How do I access the property?",
+        "answer": "Most of our properties have keyless entry. You will receive an email with the access code and instructions on the morning of your check-in."
+    },
+    {
+        "question": "What should I do if I have an issue during my stay?",
+        "answer": "For any urgent issues, please contact our 24/7 support line at [Phone Number]. For non-urgent matters, you can message us through the booking platform."
+    },
+    {
+        "question": "Are parties or events allowed?",
+        "answer": "We do not allow parties or events at our properties. Please be respectful of our neighbors and keep noise to a minimum, especially during quiet hours from 10 PM to 8 AM."
+    }
+]
